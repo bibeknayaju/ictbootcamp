@@ -1,0 +1,48 @@
+.TopNavBar {
+  display: flex;
+  flex-direction: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 20px 20px 10px;
+}
+
+.TopNavBar__left {
+  font-size: 20px;
+  color: gray;
+  font-weight: 200;
+  text-decoration: underline;
+}
+.TopNavBar__left h4 {
+  cursor: pointer;
+}
+
+.TopNavBar__middle {
+  font-size: 26px;
+  text-decoration: underline;
+}
+
+.TopNavBar__middle h1 {
+  cursor: pointer;
+}
+
+.TopNavBar__right {
+  display: flex;
+  flex-direction: flex;
+  align-items: center;
+}
+
+.TopNavBar__right h2 {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.TopNavBar__right button {
+  background: none;
+  border: 1px solid lightgrey;
+  color: black;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 13px 20px 13px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}

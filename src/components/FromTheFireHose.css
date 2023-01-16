@@ -1,0 +1,42 @@
+.FromTheFireHose {
+  display: flex;
+  flex-direction: flex;
+  /* margin-top: 20px; */
+  /* padding: 30px; */
+}
+
+.FromTheFireHose__right {
+  width: 90%;
+  /* padding: 20px; */
+}
+
+.FromTheFireHose__About {
+  width: 30%;
+
+  margin-left: 20px;
+}
+
+.About__Above h2 {
+  font-style: italic;
+  margin-bottom: 9px;
+}
+.About__Above p {
+  line-height: 1.3;
+}
+
+.FromTheFireHose__right h1 {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.FromTheFireHose__SAMPLE {
+  font-size: 40px;
+  margin: 0;
+}
+
+.FromTheFireHose__right h2 {
+  /* margin-bottom: 20px; */
+}
+
+.FromTheFireHose__right hr {
+  margin-bottom: 20px;
+}

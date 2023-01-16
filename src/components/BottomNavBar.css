@@ -1,0 +1,14 @@
+.BottomNavBar h5 {
+  text-decoration: underline;
+  color: gray;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.BottomNavBar {
+  display: flex;
+  flex-direction: flex;
+  justify-content: space-between;
+  padding: 10px;
+  color: gray;
+}

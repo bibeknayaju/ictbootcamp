@@ -1,0 +1,60 @@
+.About__Above {
+  height: 90px;
+  border: 1px;
+  height: 100%;
+  background: rgb(245, 243, 243);
+  border-radius: 8px;
+  /* margin-left: 20px; */
+  padding: 20px;
+  margin-bottom: 20px;
+  /* position: sticky;
+  top: 0; */
+}
+
+.sticky {
+  position: sticky;
+  top: 20px;
+  right: 0;
+}
+
+.About__Above p {
+  line-height: 0.9;
+}
+
+.About__main {
+  margin-left: 20px;
+  /* width: 40%; */
+}
+
+.About__middle {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  /* position: sticky;
+  top: 20%; */
+}
+
+.About__middle h2 {
+  margin-bottom: 20px;
+}
+
+.About__middleLink {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.5;
+}
+
+.About__bottom {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.About__bottom h2 {
+  margin-bottom: 20px;
+}
+.About__bottomLink {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.5;
+}

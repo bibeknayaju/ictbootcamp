@@ -1,0 +1,34 @@
+.footer__main {
+  height: 110px;
+  align-items: center;
+  background: #f4f2f2;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.footer__main p {
+  margin: 20px;
+}
+.footer__blog {
+  color: gray;
+  font-size: 13px;
+}
+
+.footer__main br {
+  margin-bottom: 20px;
+}
+
+.footer__main button {
+  border: 1px solid lightgray;
+  background-color: transparent;
+  padding: 10px 10px;
+  color: darkgray;
+  border-radius: 4px;
+}
+
+.footer__main button:hover {
+  color: black;
+  cursor: pointer;
+}
